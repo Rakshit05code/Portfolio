@@ -97,11 +97,10 @@ This project is licensed under the **MIT License**. ✅
 
 ## 💡 Author
 
-👤 **Your Name**  
-📧 your.email@example.com  
-🌐 [Portfolio Website](https://your-portfolio-link.com)  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/your-username)  
+👤 **Rakshit Chaudhary**  
+📧 rakshitchaudhary323@gmail.com 
+💼 [LinkedIn](https://linkedin.com/in/)  
+🐙 [GitHub](https://github.com/Rakshit05code)  
 
 ---
 
